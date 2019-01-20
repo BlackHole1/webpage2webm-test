@@ -1,0 +1,17 @@
+{
+  "name": "webpage2webm",
+  "version": "1.0.0",
+  "author": "Black-Hole <158blackhole@gmail.com>",
+  "description": "Server recording screen solution",
+  "keywords": [
+    "server",
+    "record",
+    "chrome",
+    "puppeteer",
+    "screen",
+    "screencast"
+  ],
+  "dependencies": {
+    "puppeteer": "^1.11.0"
+  }
+}
